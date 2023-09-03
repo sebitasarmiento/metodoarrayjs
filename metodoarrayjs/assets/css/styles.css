@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+
+}
+
+
+.card {
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid black;
+    background: whitesmoke;
+    padding: 10px;
+
+}
+
+
+.cardtitle {
+    text-align: center;
+    justify-content: center;
+
+
+}
+
+button {
+
+    color: white;
+    background: green;
+    padding: 3px;
+}
+
+ul li {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    gap: 100px;
+
+
+}
